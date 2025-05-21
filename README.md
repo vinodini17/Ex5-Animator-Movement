@@ -64,11 +64,10 @@ public class Movement : MonoBehaviour
 ```
 ## Output :
 
-![alt text](5.1.png)
+![image](https://github.com/user-attachments/assets/90c60bd8-06b3-4dc2-87e9-1a157d51c6be)
+![image](https://github.com/user-attachments/assets/ff82992b-0ab6-4987-b5d6-36bb712d8994)
+![image](https://github.com/user-attachments/assets/8c58fbed-f2e0-4fa4-a54f-9cd2188bc54f)
 
-![alt text](5.2.png)
-
-![alt text](5.3.png)
 
 ## Result :
 
